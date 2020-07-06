@@ -16,7 +16,7 @@ apt-get remove -y --purge \
   libquadmath0 \
   libtool \
   m4 \
-  php7.1-dev \
+  php7.2-dev \
   shtool \
   #
 
