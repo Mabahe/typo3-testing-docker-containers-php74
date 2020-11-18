@@ -83,5 +83,5 @@ minimal_apt_get_install \
   #
 
 # Install composer
-curl -sSL https://getcomposer.org/download/1.6.3/composer.phar -o /usr/bin/composer
+curl -sSL https://getcomposer.org/download/1.10.17/composer.phar -o /usr/bin/composer
 chmod +x /usr/bin/composer
