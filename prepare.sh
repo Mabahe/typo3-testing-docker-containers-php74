@@ -18,10 +18,10 @@ minimal_apt_get_install \
   parallel \
   #
 
-# git-cherry-pick
-curl -Lo /usr/bin/gerrit-cherry-pick https://review.typo3.org/tools/bin/gerrit-cherry-pick
-chmod +x /usr/bin/gerrit-cherry-pick
+## git-cherry-pick
+#curl -Lo /usr/bin/gerrit-cherry-pick https://review.typo3.org/tools/bin/gerrit-cherry-pick
+#chmod +x /usr/bin/gerrit-cherry-pick
 
 ## Create a user for the bamboo agent.
-addgroup --gid 9999 bamboo
-adduser --uid 9999 --gid 9999 --disabled-password --gecos "Bamboo Remote Agent" bamboo
+#addgroup --gid 9999 bamboo
+#adduser --uid 9999 --gid 9999 --disabled-password --gecos "Bamboo Remote Agent" bamboo
