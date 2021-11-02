@@ -25,7 +25,6 @@ minimal_apt_get_install \
   php7.4-pgsql \
   php7.4-pspell \
   php7.4-readline \
-  php7.4-recode \
   php7.4-soap \
   php7.4-sqlite3 \
   php7.4-xml \
